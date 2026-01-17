@@ -33,6 +33,7 @@ public class BinaryFiles {
         } catch (IOException e) {
             e.printStackTrace();
             throw e;
+
         }
     }
 }
